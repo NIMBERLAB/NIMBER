@@ -1,4 +1,4 @@
-use solana_program_test::*;  MINECODE
+use solana_program_test::*;  FUNPAY
 use solana_sdk::{ 
     account::Account,
     instruction::{AccountMeta, Instruction},
